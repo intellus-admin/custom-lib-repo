@@ -101,12 +101,12 @@ var PdfJsViewerComponent = /** @class */ (function () {
             fileUrl = this.innerSrc;
         }
         var /** @type {?} */ viewerUrl;
-//         if (this.pdfJsFolder) {
-//             viewerUrl = this.pdfJsFolder + "/web/viewer.html";
-//         }
-//         else {
-//             viewerUrl = "assets/pdfjs/web/viewer.html";
-//         }
+        // if (this.pdfJsFolder) {
+        //     viewerUrl = this.pdfJsFolder + "/web/viewer.html";
+        // }
+        // else {
+        //     viewerUrl = "assets/pdfjs/web/viewer.html";
+        // }
         //console.log("__dirname" + __dirname);
         //console.log("__dirname" + path.join(__dirname, 'my/public'));
         //var viewerUrl = __dirname + "/pdfjs/web/viewer.html";
