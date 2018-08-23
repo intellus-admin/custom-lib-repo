@@ -1,2 +1,2 @@
 # Intellus Learning
-# Intellus Propritory
+Intellus Propritory
